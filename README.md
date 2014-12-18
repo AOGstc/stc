@@ -1,2 +1,3 @@
 stc
 ===
+Author: Alexandr Grigorev
